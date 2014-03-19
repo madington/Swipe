@@ -1,0 +1,21 @@
+{
+  "name": "Swipe",
+  "version": "2.0.0",
+  "main": ["./swipe.js"],
+  "author": "Brad Birdsall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madington/Swipe.git"
+  },
+  "private": "true",
+  "ignore": [
+    "node_modules",
+    "src",
+    ".gitignore",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+  }
+}
